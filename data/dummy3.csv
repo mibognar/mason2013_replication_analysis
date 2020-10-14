@@ -1,0 +1,41 @@
+id,block,subscale,word,answer
+10,progressive,positive,"aktív, élénk",4
+10,progressive,negative,zaklatott,1
+10,progressive,positive,erős,5
+10,progressive,positive,éber,4
+10,progressive,negative,rémült,1
+10,progressive,positive,izgatott,3
+10,progressive,positive,lelkes,4
+10,progressive,positive,büszke,3
+10,progressive,negative,ellenséges,2
+10,progressive,negative,ingerlékeny,1
+10,progressive,negative,ideges,1
+10,progressive,positive,"elszánt, határozott",2
+10,progressive,positive,elhivatott,3
+10,progressive,negative,kiborult,1
+10,progressive,negative,feszült,2
+10,progressive,negative,megszégyenült,1
+10,progressive,positive,figyelmes,3
+10,progressive,positive,érdeklődő,4
+10,progressive,negative,félénk,1
+10,progressive,negative,"bűntudatom van",1
+10,stagnant,positive,"elszánt, határozott",2
+10,stagnant,negative,ideges,3
+10,stagnant,negative,ellenséges,2
+10,stagnant,positive,elhivatott,1
+10,stagnant,negative,"bűntudatom van",1
+10,stagnant,negative,megszégyenült,1
+10,stagnant,positive,büszke,2
+10,stagnant,negative,félénk,1
+10,stagnant,positive,érdeklődő,2
+10,stagnant,positive,"aktív, élénk",1
+10,stagnant,positive,éber,2
+10,stagnant,positive,figyelmes,1
+10,stagnant,negative,rémült,2
+10,stagnant,positive,izgatott,1
+10,stagnant,negative,kiborult,2
+10,stagnant,negative,zaklatott,1
+10,stagnant,negative,feszült,1
+10,stagnant,negative,ingerlékeny,1
+10,stagnant,positive,lelkes,1
+10,stagnant,positive,erős,2

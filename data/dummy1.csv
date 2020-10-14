@@ -1,0 +1,41 @@
+id,block,subscale,word,answer
+4,progressive,positive,éber,4
+4,progressive,negative,ingerlékeny,5
+4,progressive,negative,rémült,4
+4,progressive,positive,erős,5
+4,progressive,negative,megszégyenült,3
+4,progressive,positive,figyelmes,2
+4,progressive,negative,"bűntudatom van",3
+4,progressive,positive,elhivatott,5
+4,progressive,negative,ellenséges,4
+4,progressive,negative,ideges,5
+4,progressive,positive,"elszánt, határozott",2
+4,progressive,positive,lelkes,5
+4,progressive,negative,feszült,4
+4,progressive,negative,félénk,3
+4,progressive,negative,zaklatott,2
+4,progressive,negative,kiborult,5
+4,progressive,positive,érdeklődő,4
+4,progressive,positive,büszke,5
+4,progressive,positive,"aktív, élénk",3
+4,progressive,positive,izgatott,2
+4,stagnant,positive,elhivatott,5
+4,stagnant,positive,izgatott,5
+4,stagnant,positive,büszke,5
+4,stagnant,negative,ideges,5
+4,stagnant,negative,kiborult,5
+4,stagnant,positive,"aktív, élénk",5
+4,stagnant,negative,feszült,5
+4,stagnant,positive,erős,5
+4,stagnant,positive,lelkes,5
+4,stagnant,positive,éber,5
+4,stagnant,positive,"elszánt, határozott",5
+4,stagnant,negative,"bűntudatom van",5
+4,stagnant,negative,félénk,5
+4,stagnant,negative,zaklatott,5
+4,stagnant,positive,figyelmes,5
+4,stagnant,negative,ingerlékeny,5
+4,stagnant,negative,ellenséges,5
+4,stagnant,positive,érdeklődő,5
+4,stagnant,negative,megszégyenült,5
+4,stagnant,negative,rémült,5

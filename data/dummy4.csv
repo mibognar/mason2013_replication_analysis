@@ -1,0 +1,41 @@
+id,block,subscale,word,answer
+11,stagnant,negative,feszült,2
+11,stagnant,negative,rémült,1
+11,stagnant,negative,ingerlékeny,2
+11,stagnant,negative,kiborult,2
+11,stagnant,positive,"aktív, élénk",2
+11,stagnant,positive,érdeklődő,4
+11,stagnant,positive,lelkes,4
+11,stagnant,positive,elhivatott,4
+11,stagnant,negative,zaklatott,2
+11,stagnant,negative,félénk,1
+11,stagnant,positive,figyelmes,3
+11,stagnant,negative,ellenséges,2
+11,stagnant,positive,éber,3
+11,stagnant,positive,erős,2
+11,stagnant,positive,izgatott,3
+11,stagnant,positive,"elszánt, határozott",3
+11,stagnant,negative,ideges,2
+11,stagnant,positive,büszke,5
+11,stagnant,negative,"bűntudatom van",2
+11,stagnant,negative,megszégyenült,1
+11,progressive,positive,"elszánt, határozott",1
+11,progressive,positive,izgatott,1
+11,progressive,positive,éber,2
+11,progressive,positive,elhivatott,2
+11,progressive,negative,ellenséges,1
+11,progressive,positive,"aktív, élénk",3
+11,progressive,negative,ideges,2
+11,progressive,positive,érdeklődő,2
+11,progressive,negative,megszégyenült,1
+11,progressive,negative,"bűntudatom van",2
+11,progressive,negative,félénk,2
+11,progressive,negative,kiborult,2
+11,progressive,negative,ingerlékeny,3
+11,progressive,positive,büszke,5
+11,progressive,negative,zaklatott,1
+11,progressive,negative,feszült,3
+11,progressive,positive,lelkes,4
+11,progressive,positive,erős,4
+11,progressive,positive,figyelmes,5
+11,progressive,negative,rémült,2
